@@ -1,5 +1,9 @@
 # ColorFool-Prank - A Colorful UI Prank Chrome Extension
 
+## Video 
+https://github.com/RitickLath/ColorFoolPrank/assets/114455908/2165ef10-7101-42dd-b62e-6f8c97f01524
+
+
 ColorFool-Prank is a lighthearted Chrome extension designed to add a playful twist to your web browsing experience. With a simple click, you can prank your friends and colleagues by changing the background color of websites. Enjoy a fun and colorful journey while browsing the web!
 
 ## Features
